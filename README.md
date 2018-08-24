@@ -1,2 +1,0 @@
-# Notas
-Mi primer Repositorio

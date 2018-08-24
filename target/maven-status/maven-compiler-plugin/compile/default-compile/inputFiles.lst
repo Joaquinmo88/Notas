@@ -1,0 +1,8 @@
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/dto/ConsultarNotaDTOResponse.java
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/service/impl/NotaServiceImpl.java
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/dao/INotasDao.java
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/dto/ConsultarNotaDTORequest.java
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/EasyNotesApplication.java
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/service/NotaService.java
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/models/entity/Notas.java
+/home/joaquin/eclipse-workspace/easy-notes/src/main/java/com/example/easynotes/easynotes/controller/NotasRestController.java
